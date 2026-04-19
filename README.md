@@ -1,5 +1,3 @@
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/f2c41a03-b177-4aa0-a2d8-6630588ed287" /># Phishing Website Detection System
-
 ## Project Overview
 This project uses Machine Learning (Random Forest algorithm) to detect phishing websites with 98.5% accuracy. Phishing is a cyber attack where hackers create fake websites that look like real ones (banking, social media, email) to steal user passwords, credit card numbers, and personal information.
 
