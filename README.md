@@ -1,9 +1,14 @@
-# Phishing Website Detection System
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/f2c41a03-b177-4aa0-a2d8-6630588ed287" /># Phishing Website Detection System
 
 ## Project Overview
 This project uses Machine Learning (Random Forest algorithm) to detect phishing websites with 98.5% accuracy. Phishing is a cyber attack where hackers create fake websites that look like real ones (banking, social media, email) to steal user passwords, credit card numbers, and personal information.
 
 This system analyzes website characteristics and automatically identifies whether a website is legitimate or a phishing scam.
+
+Explanation of this code: [Phishing_Detection_Code_Explanation.docx](https://github.com/user-attachments/files/26865998/Phishing_Detection_Code_Explanation.docx)
+
+I began by implementing the code in Google Colab to understand how it works step by step. Once I gained a clear understanding of the logic and functionality, I moved on to implementing the same code in VS Code for a more practical development experience. Along the way, I also used AI tools to deepen my understanding, clarify concepts, and guide me in the right direction when needed.
+
 
 ## How Phishing Detection Works
 The system examines 48 different features of a website including:
@@ -40,6 +45,10 @@ Download and install Python 3.8 or higher from [python.org](https://python.org)
 ### Step 2: Download the Dataset
 Download the phishing dataset from Kaggle:
 [https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning)
+
+Information about datset: [Basic URL Structure for dataset.docx](https://github.com/user-attachments/files/26865963/Basic.URL.Structure.for.dataset.docx)
+
+
 
 Save the file `Phishing_Legitimate_full.csv` in the same folder as the Python script.
 
